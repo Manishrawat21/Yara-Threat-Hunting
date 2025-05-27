@@ -5,7 +5,7 @@ _By Manish Rawat_
 ---
 
 ## 🔍 The Story Behind This Repo
-
+ 
 I recently explored the power of **YARA** — a tool that helps cybersecurity professionals detect malware using pattern-based rules. As part of a practical lab (TryHackMe’s *Intro to YARA* room), I learned how to write YARA rules, understand different hunting styles, and scan real files for malware patterns.
 
 This repo is where I’ll continue documenting that journey, share useful rules, and encourage others to start experimenting with YARA too.
