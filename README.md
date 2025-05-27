@@ -42,7 +42,7 @@ This repo is where I’ll continue documenting that journey, share useful rules,
 
 Want the full breakdown of how YARA works and how I approached threat hunting step-by-step?
 
-👉 [Read the blog here](#insert-your-blog-link)
+👉 [Read the blog here]((https://medium.com/@maxxrawat007/from-clueless-to-clued-in-how-yara-helps-you-hunt-malware-like-a-pro-d8076c681fe1?source=friends_link&sk=d705e36439b8e580fec5b0ae2945a824))
 
 ---
 
